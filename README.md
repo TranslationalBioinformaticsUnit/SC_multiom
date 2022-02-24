@@ -20,3 +20,22 @@ NEXT STEPS:
   
   # SCRIPTS
   
+  01_demultiplexing.sh: script to demultiplex and create fastq files
+  
+  02_counts.sh: script to create counts matrix
+  
+  dropletQC: dropletQC  library to eliminate ambient RNA
+  
+  integration.R : integration pipeline to integrate all the frozen and the fresh sample with seurat pipeline
+  
+  integration.sh: to run the integration.R in the server
+  
+  QC_merge: different plots and approches done in the quality control steps
+  
+  RefGenome.sh: script to create the reference genome for the multiom case
+  
+  SC_multiom.R: the preprocessing step of each of the sample individually. Here the filters are defined
+  
+  SC_multiom.sh: script to run the sc_multiom in the server
+  
+  soupX: soupX pipeline to correct ambient RNA
