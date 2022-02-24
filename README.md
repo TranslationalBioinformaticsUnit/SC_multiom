@@ -39,3 +39,10 @@ NEXT STEPS:
   SC_multiom.sh: script to run the sc_multiom in the server
   
   soupX: soupX pipeline to correct ambient RNA
+
+  Scripts are located in: /mnt/resultados/oncohematologia/resultados/mlagasag/Riney_SC_analysis/SCRIPTS
+ 
+ # DATA
+ fastq_files: /mnt/resultados/oncohematologia/resultados/mlagasag/Riney_SC_fastq/
+ count_matrix: /mnt/resultados/oncohematologia/resultados/mlagasag/Riney_SC_counts/
+ analysis carried out: /mnt/resultados/oncohematologia/resultados/mlagasag/Riney_SC_analysis/
